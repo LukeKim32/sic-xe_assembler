@@ -1,0 +1,11 @@
+This program consist of 1 header and 2 C files.
+
+==How to compile and execute this program======================================
+1. Check if all the files are in tje same single directory
+2. To compile, enter the command "make", as Makefile will assemble 2 c files and compile them into "sic_xe_assembler.out"
+3. To execute, enter the command "./sic_xe_assembler.out"
+4. If you want to clean up the binary files(object codes and out file), enter the command "make clean"
+5. To assemble .asm file, you must place .asm file in the same directory with "sic_xe_assembler.out" file
+===============================================================================
+
+**Compile warnings are checked by gcc -Wall option.
